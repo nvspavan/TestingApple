@@ -1,0 +1,16 @@
+{
+  "activitycontinuation": {
+    "apps": [
+      "546UTK2675.com.wachter.trust.technician"
+    ]
+  },
+  "applinks": {
+    "apps": [ "546UTK2675.com.wachter.trust.technician" ],
+    "details": [
+      {
+        "appID": "546UTK2675.com.wachter.trust.technician",
+        "paths": [ "*" ]
+      }
+    ]
+  }
+}
